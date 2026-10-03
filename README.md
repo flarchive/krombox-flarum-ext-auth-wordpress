@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of krombox/flarum-ext-auth-wordpress.** Not for installation: use [Packagist](https://packagist.org/packages/krombox/flarum-ext-auth-wordpress) or the [upstream repository](https://github.com/krombox/flarum-ext-auth-wordpress).
 
-**0** versions archived · Latest: [`v0.1.1-beta.7`](https://github.com/flarchive/krombox-flarum-ext-auth-wordpress/tree/archive/v0.1.1-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**2** versions archived · Latest: [`v0.1.1-beta.7`](https://github.com/flarchive/krombox-flarum-ext-auth-wordpress/tree/archive/v0.1.1-beta.7) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.7` | 2017-09-12 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/krombox-flarum-ext-auth-wordpress/tree/archive/v0.1.0-beta.7) |
+| `v0.1.1-beta.7` | 2018-03-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/krombox-flarum-ext-auth-wordpress/tree/archive/v0.1.1-beta.7) |
 
 Catalog entry: [packages/krombox-flarum-ext-auth-wordpress.json](https://github.com/flarchive/archive-index/blob/main/packages/krombox-flarum-ext-auth-wordpress.json)
 
